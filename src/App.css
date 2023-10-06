@@ -1,0 +1,88 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* a {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  line-height: 120%;
+} */
+.text-white {
+  text-decoration: none !important;
+  font-weight: 700 !important;
+  line-height: 120% !important;
+}
+.aa {
+  max-width: 260px !important;
+  color: var(--text-title-text, #333) !important;
+  font-size: 24px !important;
+  /* font-style: normal; */
+  font-weight: 700 !important;
+  line-height: 120% !important; /* 28.8px */
+  letter-spacing: 0.12px !important;
+  cursor: pointer !important;
+}
+.bg-secondary {
+  position: relative !important;
+}
+.p1 {
+  position: absolute !important;
+  color: var(--light-text-color-body-2, #9a9ab0) !important;
+  font-size: 12px !important;
+  /* font-style: normal; */
+  font-weight: 700 !important;
+  line-height: 110% !important; /* 13.2px */
+  letter-spacing: 0.096px !important;
+  background: var(--light-base-color-white, #fff) !important;
+  width: 100px !important;
+  height: 40px !important;
+  bottom: -16px !important;
+}
+.d1 {
+  position: relative !important;
+  padding-bottom: 20px !important;
+}
+.p2 {
+  position: absolute !important;
+  bottom: -10px !important;
+}
+.p10 {
+  padding-top: 53px !important;
+  color: var(--light-base-color-white, #fff) !important;
+  /* font-style: normal; */
+  font-weight: 700 !important;
+  line-height: 120% !important; /* 19.2px */
+  letter-spacing: 0.08px !important;
+}
+.p11 {
+  /* color: var(--light-base-color-white, #fff); */
+  font-size: 62px !important;
+  /* font-style: normal; */
+  font-weight: 700 !important;
+  line-height: 120% !important ; /* 74.4px */
+  max-width: 712px !important;
+  letter-spacing: 0.186px !important;
+}
+.d21 {
+  background: #f2f2f2 !important;
+  width: 48px !important;
+  height: 48px !important;
+  border-radius: 50% !important;
+}
+.p12 {
+  color: var(--light-base-color-white, #fff) !important;
+  /* font-style: normal; */
+  font-weight: 700 !important;
+  line-height: 150% !important; /* 19.2px */
+  letter-spacing: 0.08px !important;
+}
+.p13 {
+  color: var(--light-text-color-body-1, #515151) !important;
+  font-size: 16px !important ;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 125% !important; /* 20px */
+  letter-spacing: 0.08px !important;
+}
